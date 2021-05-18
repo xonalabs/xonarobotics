@@ -5,7 +5,7 @@ XonaRobotics is a collectible NFT platform based on Ethereum blockchain with a l
 <img src="assets/xona_cyborg.png" alt="Xona Cyborg" width="300"/>
 <br>
 
-<i>Smart contract address on Ethereum blockchain:</i> <b>[ADDR](https://etherscan.io/address/ADDR)</b>
+<i>Smart contract address on Ethereum blockchain:</i> <b>[0xa9df13ccfcf4f4b0ac9d1368dc4ecb9af9d41df6](https://etherscan.io/address/0xa9df13ccfcf4f4b0ac9d1368dc4ecb9af9d41df6)</b>
 
 <i>ABI:</i> [Link To File](./ABI)
 
